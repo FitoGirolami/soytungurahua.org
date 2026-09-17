@@ -39,6 +39,9 @@
   ],
   "exclude": [
     "node_modules",
-    "examples"
+    "examples",
+    "db",
+    "drizzle",
+    "app/chatgpt-auth.ts"
   ]
 }
