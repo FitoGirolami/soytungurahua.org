@@ -16,3 +16,7 @@ Reunir investigaciones, fuentes, memoria oral y datos abiertos para comprender l
 ## Identidad
 
 Soy Tungurahua.org comparte la identidad visual de soytungurahua.com y cumple una función complementaria: la versión `.com` invita a descubrir el territorio; la versión `.org` organiza y divulga conocimiento sobre él.
+
+## Publicación
+
+El sitio se publica automáticamente en GitHub Pages desde la rama `main` y utiliza el dominio `soytungurahua.org`.
